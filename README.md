@@ -1,4 +1,4 @@
-# credit_eligibility_application
+# Credit_Eligibility_Application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
 [Visit the app here](https://crediteligibilityappmain-znnhxkggvvlgfedxoapizg.streamlit.app/)
@@ -42,8 +42,8 @@ If you want to run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WarnerJaworsk/credit_eligibility_app_main
-   cd credit_eligibility_application
+   git clone https://github.com/WarnerJaworsk/credit_eligibility_app_main.git
+   cd credit_eligibility_app_main
 
 2. Create and activate a virtual environment:
    ```bash
