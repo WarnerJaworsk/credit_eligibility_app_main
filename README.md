@@ -1,7 +1,7 @@
 # credit_eligibility_application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-[Visit the app here](https://credit-eligibility.streamlit.app/)
+[Visit the app here](https://crediteligibilityappmain-znnhxkggvvlgfedxoapizg.streamlit.app/)
 
 password - streamlit
 
@@ -56,6 +56,6 @@ If you want to run the application locally, follow these steps:
 
 4. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit.py
 
 #### Thank you for using the Credit Eligibility Application! Feel free to share your feedback.
